@@ -1,0 +1,17 @@
+Public IP Address 103.97.240.30Processor : AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System : Windows 10.0.22000
+Machine : AMD64
+Hostname : LAPTOP-DQCAEODL
+Private IP Addr : 192.168.56.1
+Public IP Address 103.97.240.30Processor : AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System : Windows 10.0.22000
+Machine : AMD64
+Hostname : LAPTOP-DQCAEODL
+Private IP Addr : 192.168.56.1
+CLipboard data : 
+In the article [5] , the authors discuss the possibility of attacks that can threaten  mobile banking users using keyloggers. Forensic data is analysed using a static method that is supposed to get important information or data that can be used as digital evidence. Let's shiheelo
+
+
+llothis
+is
+group11
